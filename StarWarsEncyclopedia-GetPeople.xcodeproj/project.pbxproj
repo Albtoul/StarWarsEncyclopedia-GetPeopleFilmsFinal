@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E1EB6C0276F1116005E4B94 /* FilmsDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1EB6BF276F1116005E4B94 /* FilmsDetailsViewController.swift */; };
+		2E1EB6C3276F113A005E4B94 /* PeopleDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1EB6C2276F113A005E4B94 /* PeopleDetailsViewController.swift */; };
 		2EEDBFE1276B212F00D1A5A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEDBFE0276B212F00D1A5A3 /* AppDelegate.swift */; };
 		2EEDBFE3276B212F00D1A5A3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEDBFE2276B212F00D1A5A3 /* SceneDelegate.swift */; };
 		2EEDBFE8276B212F00D1A5A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EEDBFE6276B212F00D1A5A3 /* Main.storyboard */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E1EB6BF276F1116005E4B94 /* FilmsDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmsDetailsViewController.swift; sourceTree = "<group>"; };
+		2E1EB6C2276F113A005E4B94 /* PeopleDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleDetailsViewController.swift; sourceTree = "<group>"; };
 		2EEDBFDD276B212F00D1A5A3 /* StarWarsEncyclopedia-GetPeople.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StarWarsEncyclopedia-GetPeople.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EEDBFE0276B212F00D1A5A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EEDBFE2276B212F00D1A5A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,12 +67,14 @@
 				2EEDBFE0276B212F00D1A5A3 /* AppDelegate.swift */,
 				2EEDBFE2276B212F00D1A5A3 /* SceneDelegate.swift */,
 				2EEDBFE6276B212F00D1A5A3 /* Main.storyboard */,
+				2E1EB6C2276F113A005E4B94 /* PeopleDetailsViewController.swift */,
 				2EEDBFF9276B2AB500D1A5A3 /* FilmsViewController.swift */,
 				2EEDBFF6276B218000D1A5A3 /* PeopleViewController.swift */,
 				2EEDBFE9276B213000D1A5A3 /* Assets.xcassets */,
 				2EEDBFEB276B213000D1A5A3 /* LaunchScreen.storyboard */,
 				2EEDBFEE276B213000D1A5A3 /* Info.plist */,
 				2EEDBFFC276B2D7E00D1A5A3 /* StarsWarsModel.swift */,
+				2E1EB6BF276F1116005E4B94 /* FilmsDetailsViewController.swift */,
 			);
 			path = "StarWarsEncyclopedia-GetPeople";
 			sourceTree = "<group>";
@@ -147,6 +153,8 @@
 				2EEDBFE1276B212F00D1A5A3 /* AppDelegate.swift in Sources */,
 				2EEDBFE3276B212F00D1A5A3 /* SceneDelegate.swift in Sources */,
 				2EEDBFFA276B2AB500D1A5A3 /* FilmsViewController.swift in Sources */,
+				2E1EB6C3276F113A005E4B94 /* PeopleDetailsViewController.swift in Sources */,
+				2E1EB6C0276F1116005E4B94 /* FilmsDetailsViewController.swift in Sources */,
 				2EEDBFF7276B218000D1A5A3 /* PeopleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
